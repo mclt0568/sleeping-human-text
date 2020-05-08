@@ -9,5 +9,4 @@ def getSleepingMan():
 	except ValueError:
 		print("Please enter a valid number as argument")
 
-
-	getSleepingMan()
+getSleepingMan()
